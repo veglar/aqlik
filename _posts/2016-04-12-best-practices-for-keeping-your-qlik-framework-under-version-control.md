@@ -32,7 +32,7 @@ Data you load into applications will most likely change over time , data files 
 
 ## Keep the frame of the framework outside the version control.
 
-<img class="wp-image-296 size-medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/2016/04/scaffolding-1463583-639x803.jpg" alt="Scaffolding"/> _FreeImages.com/Bo de Visser_
+<img class="wp-image-296 size-medium" src="{{ site.url }}{{ site.baseurl }}/assets/images/2016/04/scaffolding_2.jpg" alt="Scaffolding"/> _FreeImages.com/Bo de Visser_
 
 &nbsp;
 

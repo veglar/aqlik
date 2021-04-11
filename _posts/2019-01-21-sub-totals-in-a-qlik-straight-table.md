@@ -134,7 +134,7 @@ _The Transaction output of the qlik script above_
 Resident [Transactions];
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}/2019/01/image-2.png" alt="" class="wp-image-469"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/2019/01/image-2.png" alt="" class="wp-image-469"/>
 _The dimension link table output of the script above the picture._
 <!-- /wp:image -->
 

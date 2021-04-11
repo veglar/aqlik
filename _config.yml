@@ -29,7 +29,8 @@ twitter_username: veglar
 github_username:  veglar
 
 # Build settings
-theme: minima
+repository: veglar/aqlik
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

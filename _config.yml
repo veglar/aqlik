@@ -30,7 +30,7 @@ github_username:  veglar
 permalink: /:categories/:year/:month/:title/
 # Build settings
 repository: veglar/aqlik     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

@@ -23,13 +23,13 @@ title: aqlik.se
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Primary focus on QlikView and Qlik Sense developing and management.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: #"" # the subpath of your site, e.g. /blog
+url: # "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: veglar
 github_username:  veglar
 
 # Build settings
-repository: veglar/aqlik
+repository: veglar/veglar.github.io
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed

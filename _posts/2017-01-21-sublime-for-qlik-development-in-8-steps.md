@@ -5,7 +5,7 @@ permalink: /2017/01/sublime-for-qlik-development-in-8-steps/
 classes: wide
 
 ---
-When developing QlikView and Qlik Sense scripts I prefer to use Sublime for scripting over the built in script editors. I have found separating script and layout to be a good idea partly because it enables me to run scripts in both QlikView and in Qlik Sense, partly because it is easier to handle when using version control such as GIT and partly because it makes it easier to separate the script and the layout development between individuals.
+When developing QlikView and Qlik Sense scripts I prefer to use Sublime over the built in script editors for my scripting. I have found that separating script and layout enables me to reuse my scripts multiple applications and in QlikView and in Qlik Sense. It is also easier to handle script files over the qvw/qvf. Thirdly it is easier to divide  scripting and  layout development between individuals when the script is kept outside of the Qvw/qvf files.
 
 Sublime is an excellent text editor tool that have a lot of possiblilties in regards of tweaking and customizing. To get it as Qlik effective as possible for my needs I usually customize it a bit. In this blogpost I will describe to you how I set up Sublime when I enter a new development environment.
 
